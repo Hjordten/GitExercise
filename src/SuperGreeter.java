@@ -16,9 +16,11 @@ public class SuperGreeter {
 
         String navn = sc.next();
 
-        System.out.println("Hej " + navn + " Godt at møde dig");
+        System.out.println("Hej " + navn + " Godt at møde dig <3.");
 
 
     }
+
+
 
 }
